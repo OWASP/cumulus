@@ -15,6 +15,9 @@ This lightweight and low-barrier approach helps you find threats to your devOps 
 
 Find the latest release [here](https://github.com/OWASP/cumulus/releases/latest).
 
+The best way to play OWASP Cumulus is physicly, in the same room, but you can also try it online at: https://copi.owasp.org 
+Read more about that here: https://github.com/OWASP/cornucopia/releases/tag/v2.4.0
+
 ## Threat Modeling 
 The idea of threat modeling via serious games goes back to the card game [Elevation of Privilege](https://shostack.org/games/elevation-of-privilege) by [Adam Shostack](https://github.com/adamshostack).
 The basic idea is to bring the developers on a table and get them start discussing the security of their system.
