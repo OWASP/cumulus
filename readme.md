@@ -78,6 +78,9 @@ You can find it under:
 
 Alternatively, Cumulus can be played at [copi.owasp.org](https://copi.owasp.org), see [the release notes](https://github.com/OWASP/cornucopia/releases/tag/v2.4.0). Thanks to [Johan Sydseter](https://github.com/sydseter).
 
+## Printed Cards
+Printed cards are available at [CyberSecGames](https://cybersecgames.com/products/owasp-cumulus-threat-modeling-the-clouds).
+
 ## Contributing 
 Contributions to the card deck are very much appreciated.
 In the end, this card deck is intended to be a community project.
